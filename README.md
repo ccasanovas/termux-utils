@@ -6,8 +6,8 @@ Pentesting tools all in one installers for termux (non root devices)
 2- git clone https://github.com/ccasanovas/termux-utils/ \
 3- cd termux-utils \
 4- select framework to install (metasploit, phonesploit, routersploit) \
-5- chmod 777 <framework selected file> \
-6- ./<framework selected file> \
+5- chmod 777 framework-selected-file \
+6- ./framework-selected-file \
 7- enjoy and happy hacking! \
 
 # Usage notes
