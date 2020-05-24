@@ -8,7 +8,7 @@ Pentesting tools all in one installers for termux (non root devices)
 4- select framework to install (metasploit, phonesploit, routersploit) \
 5- chmod 777 framework-selected-file \
 6- ./framework-selected-file \
-7- enjoy and happy hacking! \
+7- enjoy and happy hacking! 
 
 # Usage notes
 This repo is for educational or professional purposes. Any other use of these tools will be judge and eventually punished by the law according to its country.
