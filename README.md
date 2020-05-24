@@ -2,7 +2,7 @@
 Pentesting tools all in one installers for termux (non root devices)
 
 # Usage on termux
-1- pkg install git
+1- pkg install git \
 2- git clone https://github.com/ccasanovas/termux-utils/
 3- cd termux-utils
 4- select framework to install (metasploit, phonesploit, routersploit)
